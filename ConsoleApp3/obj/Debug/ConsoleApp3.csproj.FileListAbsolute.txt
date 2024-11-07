@@ -1,0 +1,7 @@
+C:\Users\maxim\Desktop\tasks\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\maxim\Desktop\tasks\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\maxim\Desktop\tasks\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\maxim\Desktop\tasks\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\maxim\Desktop\tasks\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\tasks\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\maxim\Desktop\tasks\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
